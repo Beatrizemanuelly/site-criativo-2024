@@ -47,6 +47,21 @@ a:active{
     color: rgb(105, 144, 216);
 }
 
+.escola-imagem{
+    width: 25%;
+    height: 300px;
+    border-radius: 82px;
+}
+
+.escola{
+    background-image: linear-gradient(#424E61,#16CFF8);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:24px 0 ;
+}
+
 
 
 
